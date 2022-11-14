@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "anak-bot",
+  "private_key_id": "2d1f3003a360db58013d8e6064e2e1d7f2158b6a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC9b7MWn7rnithI\n+Cnpds7A0UcS/Ijv/k0ibm4XP412WYAcfUt4qXvdZ8Bf9cUzMkVNJB3zmWd1/cAX\nle+1QsuDbWyfu6j1xR9Pvr5esIPP4Ji0BC7/XUlUTflAnY51nVZza6st6gmX+UG/\nsc+tBdwMQUMBBFghsgh0ifX4x7gQIL8DcMy4uQviKxbCOJqumrbKKRcZLEzUit81\nA1s4JLrvfgXIdig4w2jECzrloeepUC5ftQEWHfl2Kha0nWtKXPxaAmgQkwVgdBO0\nwsqCrDbYgSU5T89+oSLUspGtEq5tjVylDdNb5cbadfHdguiemepUnzVT/a0JB3FT\niQc8C7y7AgMBAAECggEAFGTjm2Jr3USR3100Kem7/X8qTy130pqGlFfeK0uQv7aH\n98k3aFCawK3MRKhxZ/8X/eOPA+w2ernsRb3DFjkQLuCHarTpzjfAFLY8yXXoYudT\nmUHAC4bv/477cAzmStw68+caATHqgX14qhoK+R4h4AHgpEni8RG5Hk7B99wMgVPN\nwP7dZL7KcAwzqqjwDExQ+tWMFrgdSLPWx/bNJvA0AiB4TKYFy0QHodTYchqck63d\n9yysTbQgm6XaPHmlLId+gU3qE3MLf08rxYxYqDdu9oKzHEv/aRb0CzoA41pWNk+9\nEaZ+Iyy9ayy0KBk/FVFzgfjhx6+ap8HpSilkaKNePQKBgQDfFF3GOMKBLkyKH38K\nnqMmM71rSgoIim1oH1/yeomnODUcGSd1SrLisZuh9CmRHcdllOJh2svMliObSbQZ\nNjsgzaONxU8tUia1zq4GDTnz/LJ51udwhazbrS+bGfWdM0OMbL9YxybSZ/jqZGn3\npiUwKdgQrEOv+3rwMJfEllis7QKBgQDZZFbOtagEYtMTb06XOEiA9kNc2JQSFFaO\n6XW5Q4QlyptQ3xl9rE6ABIWcks2+Uvz1rHwIGKLgj3VsguGRkaGzwJqZJsb+VywJ\nh/TwagzJgniHBzkDXviN+UQm36C4dEDfrkyQQScRVQopNLlmSqx3IroXC9sRH3PU\nbFZ9TIEDRwKBgDYfHtEknCvzK6anFY9iBXsTOnV5NQ31Z63HTuPpTtQ/EsOKZsRS\nJyxQos2cCyml6+Z9RJ8xEhjEpEbcjtE/EwFWYsPWhusb70BUsGvPcav8NuDQfr4R\n8Gorjk028xv8f/rlt1a2mniZuQ5E5mCq8oLI5B7HbHSZsq3rXCbZwxHRAoGBAL1h\n6THZFQ8FHMbwj7GzSY53ewW2c4AwkZucjH8h70yQ7a+NPAK8igKCbfeR+ITWfSJ0\n6fSPqc0hjPVEK8gJ66nRn5zOKEtIm8eN1ndem9csv106kJN8N+JPBe0rojMuq5lx\nmaeN6r/xqpFtKhqP8SE0cpNDM8v974VeABbWAApfAoGAKWg5a/QdmNqT9I25vw4w\nagePFxcwT14gbjUMKSNtRgMUDL9Yovvo4p3O5XRAzqbvU/qmR+R/xITqz6XM3/oU\ngF/5gW9Im6KR0jNV39PKF8hcZE0IpFLawB+Qak7Ti5Ge1Jage31HFdZrLGrqNtSU\nRi4UbB44OCoRAVazjNyZJkM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "openwing@anak-bot.iam.gserviceaccount.com",
+  "client_id": "104242501922727533419",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/openwing%40anak-bot.iam.gserviceaccount.com"
+}
